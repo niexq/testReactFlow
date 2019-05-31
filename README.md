@@ -1,0 +1,2 @@
+# testReactFlow
+Flow是facebook出品的JavaScript静态类型检查工具，测试react项目中使用flow
